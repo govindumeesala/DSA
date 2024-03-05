@@ -38,6 +38,7 @@ Explanation: An optimal sequence of operations is:
 '''java
 
 class Solution {
+    
     public int minimumLength(String s) {
         int l = 0;
         int r = s.length() - 1;
