@@ -33,6 +33,7 @@ Constraints:
 # solution
 
 class Solution{
+    
     // Function to find the maximum index difference.
     static int maxIndexDiff(int arr[], int n) { 
         if(n==1){
