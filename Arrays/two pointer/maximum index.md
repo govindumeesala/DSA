@@ -32,6 +32,8 @@ Constraints:
 
 # solution
 
+```java
+
 class Solution{
     
     // Function to find the maximum index difference.
@@ -69,3 +71,5 @@ class Solution{
         return maxDiff; 
     }
 }
+
+``` 

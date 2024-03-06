@@ -35,7 +35,7 @@ Explanation: An optimal sequence of operations is:
 
 # solution 
 
-'''java
+```java
 
 class Solution {
     
@@ -53,4 +53,4 @@ class Solution {
     }
 }
 
-'''
+```
