@@ -1,4 +1,4 @@
-# question
+# (GFG) maximum index
 
 Given an array a of n positive integers. The task is to find the maximum of j - i subjected to the constraint of a[i] < a[j] and i < j.
 
